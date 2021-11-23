@@ -1,0 +1,4 @@
+include ':android'
+include ':ios'
+include ':SPD-classes'
+include ':core'
